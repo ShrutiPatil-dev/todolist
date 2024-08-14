@@ -46,7 +46,7 @@ function Input() {
                     placeholder='Description of Todo Item...'
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
-                    className='w-4/5 lg:w-3/4 m-5 p-2 lg:p-3 outline-none border-[1px] text-center text-gray-700 border-gray-100 bg-neutral-100 rounded-full placeholder:text-center'
+                    className='w-3/5 lg:w-3/4 m-5 p-2 lg:p-3 outline-none border-[1px] text-center text-gray-700 border-gray-100 bg-neutral-100 rounded-full placeholder:text-center'
                 />
                
                 
